@@ -37,39 +37,32 @@ I am an Electrical Engineering undergraduate at IIT (ISM) Dhanbad with a strong 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=2"/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
-### 💻 Languages & Problem Solving
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js" alt="Languages"/>
-</p>
-<p>
-  <strong>Core CS:</strong> Data Structures • Algorithms • Object-Oriented Programming (OOP) • System Design <br>
-  <strong>Algorithmic Expertise:</strong> Dynamic Programming • Graph Algorithms • Bitwise Operations • Binary Search
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css" alt="Languages"/>
 </p>
 
-### 🌐 Full Stack & Databases
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,firebase,mongodb,mysql" alt="Full Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"/>
 </p>
 
-### 🧰 Tools & Platforms
+### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=2"/>
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database"/>
+</p>
 
-## 🏆 Achievements & Competitive Programming
-
-| Platform / Area | Rating / Status | Highlights |
-| :--- | :---: | :--- |
-| **Problem Solving** | **700+** | Solved across multiple coding platforms |
-| **Codeforces** | **Specialist** | Max Rating: Specialist |
-| **LeetCode** | **1531** | Active participant in weekly contests |
-| **CodeChef** | **2★** | Consistent performer |
-| **Academics** | **Scholar** | Dakshana Scholar & Student Gymkhana Senator |
-| **Hackathons/Tests**| **Top 8%** | ATF 2025 Nationwide Ranking |
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,postman" alt="Tools & Platforms"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=2"/>
 
@@ -121,22 +114,6 @@ I am an Electrical Engineering undergraduate at IIT (ISM) Dhanbad with a strong 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu618&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=priyanshu618&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu618&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=2"/>
-
-## 🎯 2026 Vision
-
-- [ ] 🚀 Solve **1000+ DSA Problems**
-- [ ] ⭐ Become **Codeforces Expert**
-- [ ] 🔥 Reach **1700+ LeetCode Rating**
-- [ ] 🤖 Build **5+ AI SaaS Applications**
-- [ ] 🌍 Make impactful **Open Source Contributions**
-- [ ] 💼 Secure a **Software Engineering Internship**
 
 <br>
 
